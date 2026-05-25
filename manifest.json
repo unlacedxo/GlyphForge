@@ -1,0 +1,25 @@
+{
+  "name": "GlyphForge",
+  "short_name": "GlyphForge",
+  "description": "A Procreate companion PWA for learning icon design through traceable blueprints.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1117",
+  "theme_color": "#15182A",
+  "icons": [
+    {
+      "src": "./ICON-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./ICON-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
